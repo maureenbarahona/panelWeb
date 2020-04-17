@@ -1,0 +1,63 @@
+/**
+ * @Author: Raquel Jackson
+ * @Date:   2018-10-27T10:08:00-06:00
+ * @Email:  r.jackson@msn.com
+ * @Last modified by:   Raquel Jackson
+ * @Last modified time: 2018-10-27T22:19:00-06:00
+ */
+
+
+.fixedHeader {
+  position: fixed;
+  top: 0;
+  right: 0;
+  width: 100%;
+  z-index: 9;
+  transition: width 0.2s;
+}
+
+.header {
+  height: 64px;
+  padding: 0;
+  background: #fff;
+  box-shadow: 0 1px 4px rgba(0, 21, 41, 0.08);
+  position: relative;
+}
+
+
+.right {
+  float: right;
+  height: 100%;
+  overflow: hidden;
+
+  .search {
+    padding: 0 12px;
+    &:hover {
+      background: transparent;
+    }
+  }
+}
+
+.right .action {
+  cursor: pointer;
+  padding: 0 12px;
+  display: inline-block;
+  transition: all 0.3s;
+  height: 100%;
+}
+
+.action > i {
+  vertical-align: middle;
+}
+
+.action:hover {
+      background: rgba(248, 147, 29, 0.10);
+    }
+
+.avatar {
+    margin: 20px 8px 20px 0;
+    color: #FFF;
+    background: rgba(248, 147, 29, 0.95);
+    vertical-align: middle;
+
+}

@@ -1,0 +1,8 @@
+# @Author: Raquel Jackson
+# @Date:   2018-10-18T07:21:57-06:00
+# @Email:  r.jackson@msn.com
+# @Last modified by:   Raquel Jackson
+# @Last modified time: 2018-10-19T18:53:50-06:00
+{
+  "extends": ["react-app", "eslint:recommended"]
+}

@@ -1,0 +1,38 @@
+.card {
+    min-Width: 275;
+    margin-Bottom: '20px'
+}
+
+.bullet {
+    display: 'inline-block';
+    margin: '0 2px';
+    transform: 'scale(0.8)'
+}
+
+.title0 {
+    margin-Bottom: '12px';
+    font-Size: '19.2px';
+    letter-Spacing: '3.01881px';
+    color: '#455A64';
+    text-Transform: 'uppercase'
+}
+
+.title1 {
+    font-Size: '15.2px';
+    letter-Spacing: '2.38989px';
+    color: '#455A64'
+
+}
+
+.title2 {
+    margin-Bottom: '15px';
+    font-Size: '15.2px';
+    letter-Spacing: '2.38989px';
+    color: '#455A64';
+}
+
+.pos {
+    font-Size: 15;
+    color: '#9BA3A6';
+    letter-Spacing: '2px'
+}

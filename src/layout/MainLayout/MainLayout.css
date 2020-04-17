@@ -1,0 +1,36 @@
+/**
+ * @Author: Raquel Jackson
+ * @Date:   2018-10-28T08:32:21-06:00
+ * @Email:  r.jackson@msn.com
+ * @Last modified by:   Raquel Jackson
+ * @Last modified time: 2018-10-28T08:32:25-06:00
+ */
+ .card-container {
+   margin-top: 30px;
+
+ }
+
+ .card-container > .ant-tabs-card > .ant-tabs-content {
+   height: 100%;
+   margin-top: -16px;
+
+ }
+
+ .card-container > .ant-tabs-card > .ant-tabs-content > .ant-tabs-tabpane {
+   background: #fff;
+   padding: 16px;
+ }
+
+ .card-container > .ant-tabs-card > .ant-tabs-bar {
+   border-color: #fff;
+ }
+
+ .card-container > .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab {
+   border-color: transparent;
+   background: transparent;
+ }
+
+ .card-container > .ant-tabs-card > .ant-tabs-bar .ant-tabs-tab-active {
+   border-color: #fff;
+   background: #fff;
+ }

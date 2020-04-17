@@ -1,0 +1,43 @@
+/**
+ * @Author: Raquel Jackson
+ * @Date:   2018-10-23T10:33:49-06:00
+ * @Email:  r.jackson@msn.com
+ * @Last modified by:   Raquel Jackson
+ * @Last modified time: 2018-10-23T10:55:51-06:00
+ */
+.formMain {
+  /*position: absolute;
+  top: 50%;
+  left: 50%;
+
+  */
+
+    width: 380px;
+    height: 420px;
+    padding: 25px;
+  box-shadow: 0 0 100px rgba(0,0,0,.08);
+}
+
+
+.logo {
+  text-align: center;
+  cursor: pointer;
+  margin-bottom: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo img {
+  width: 150px;
+  margin-right: 8px;
+}
+
+.login-form-forgot {
+  /*float: right;*/
+    text-align: center;
+}
+
+.submit-button {
+  width: 100%;
+}

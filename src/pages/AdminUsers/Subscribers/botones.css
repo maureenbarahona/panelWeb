@@ -1,0 +1,182 @@
+.contenedor {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+}
+
+.contenedorImportar {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: 50px;
+  top: 20px;
+}
+
+.barrafrecuencia {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: -5px;
+  top: 45px;
+}
+
+
+.barrafecha {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: -190px;
+  top: 77px;
+}
+.nativefr{
+ 
+  outline: 'none';   
+  border: "0px solid black";
+}
+
+.barramonto {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: 733px;
+  top: 37px;
+}
+
+.contenedorAgregar {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: 50px;
+  top: 20px;
+}
+
+.contenedorImporta {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: 650px;
+  top: 20px;
+}
+.contenedorClientes {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: 15px;
+  top: 50px;
+}
+
+.texto-encima {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size: 10px;
+  font-weight: bold;
+}
+.centrado {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.imagen1 {
+  width: 20px;
+  height: 20px;
+}
+
+.texto-importar {
+  position: absolute;
+  top: 22px;
+  left: 50px;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+}
+
+.texto-clientes {
+  top: 700px;
+  left: 40px;
+  font-size: 25px;
+}
+
+.texto-agregar {
+  position: absolute;
+  top: 29px;
+  left: 35px;
+  font-size: 14px;
+  font-weight: bold;
+  color: white;
+}
+
+.texto-precio {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: 650px;
+  top: 10px;
+  color:black
+}
+
+.texto-precior {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: 545px;
+  top: 40px;
+ 
+}
+
+.texto-frec {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: -190px;
+  top: -5px;
+ 
+}
+
+
+.texto-mont {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: 770px;
+  top: -35px;
+ 
+}
+
+
+.texto-lps {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: 800px;
+  top: -30px;
+ 
+}
+
+
+.rbutton {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: -20px;
+  top: -25px;
+ 
+}
+
+.texto-nombre {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: -55px;
+  top: 10px;
+  color: black
+}
+
+.contenedor-pr {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+ 
+}

@@ -1,0 +1,89 @@
+.contenedor{
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  
+}
+
+.contenedorImportar{
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: 950px;
+  top: 20px;
+  
+}
+
+.contenedorAgregar{
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: 50px;
+  top: 20px;
+
+  
+  
+}
+
+
+.contenedorClientes{
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  left: 15px;
+  top: 20px;
+
+  
+  
+}
+
+
+
+.texto-encima{
+  position: absolute;
+  top: 10px;
+  left: 20px;
+  font-size: 12px;
+  font-weight: bold;
+}
+.centrado{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.imagen1{
+  width:20px;
+  height:20px;
+  } 
+
+  
+.texto-importar{
+  position: absolute;
+  top: 22px;
+  left: 50px;
+  font-size: 14px;
+  font-weight: bold;
+  color: white
+}
+
+.texto-clientes{
+ 
+  top: 700px;
+  left: 40px;
+  font-size: 12px;
+ 
+  color: black
+}
+
+.texto-agregar{
+  position: absolute;
+  top: 22px;
+  left: 35px;
+  font-size: 14px;
+  font-weight: bold;
+  color: white
+
+
+}

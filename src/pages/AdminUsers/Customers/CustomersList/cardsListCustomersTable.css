@@ -1,0 +1,12 @@
+.root {
+    width: '100%';
+    margin-Top: theme-spacing unit * 3;
+  }
+
+.table {
+    min-Width: 1020
+  }
+
+.tableWrapper {
+    overflow-X: 'auto'
+  }

@@ -1,0 +1,42 @@
+ .formMain {
+      width: 380px;
+      height: 420px;
+      padding: 25px;
+    box-shadow: 0 0 100px rgba(0,0,0,.08);
+  }
+  .paper {
+    padding: spacing(2);
+    text-align: 'center';
+  }
+
+  .root {
+    flex-Grow: 1
+  }
+
+  .main {
+    width: 'auto';
+    display: 'block';
+  }
+  
+  .logo {
+    text-align: center;
+    cursor: pointer;
+    margin-bottom: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo img {
+    width: 150px;
+    margin-right: 8px;
+  }
+  
+  .singOut-form-forgot {
+      text-align: center;
+  }
+  
+  .submit-button {
+    width: 100%;
+  }
+  

@@ -1,0 +1,54 @@
+<!--
+@Author: Raquel Jackson
+@Date:   2018-10-17T11:15:18-06:00
+@Email:  r.jackson@msn.com
+@Last modified by:   maureen
+@Last modified time: 2019-02-19T18:12:10-06:00
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 250 184">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i');
+
+      .cls-1 {
+        clip-path: url(#clip-logo);
+      }
+
+      .cls-2, .cls-5 {
+        fill: #455a64;
+      }
+
+      .cls-2 {
+        font-size: 45px;
+        font-family: 'Roboto', sans-serif;
+        font-weight: 700;
+        font-style: italic;
+        letter-spacing: 0.057em;
+      }
+
+      .cls-3, .cls-4 {
+        font-size: 45px;
+        fill: #f8931d;
+      }
+
+      .cls-3 {
+        font-family: 'Roboto', sans-serif;
+        font-weight: 300;
+      }
+    </style>
+    <clipPath id="clip-logo">
+      <rect width="250" height="184"/>
+    </clipPath>
+  </defs>
+  <g id="logo" class="cls-1">
+    <g id="logo-2" transform="translate(5 5)">
+      <text id="PayGate" class="cls-2" transform="translate(120 148.608)"><tspan x="-120.423" y="0">Pay</tspan><tspan class="cls-3" y="0">Gate</tspan></text>
+      <g id="card" transform="translate(70.774 6)">
+        <path id="Combined_Shape" data-name="Combined Shape" class="cls-4" d="M54.968,65.526H6.107A6.04,6.04,0,0,1,0,59.569V29.018H97.721V53.611a17.534,17.534,0,0,0-5.373-12.63,18.431,18.431,0,0,0-12.95-5.24,18.121,18.121,0,0,0-18.323,17.87v.521a8.931,8.931,0,0,0-6.107,8.414v2.978ZM15.5,41.188c-1.813,0-3.289,1.89-3.289,4.212s1.475,4.212,3.289,4.212H28.659c1.813,0,3.289-1.89,3.289-4.212s-1.475-4.212-3.289-4.212ZM97.721,11.234H0V5.957A6.04,6.04,0,0,1,6.107,0H91.613a6.041,6.041,0,0,1,6.108,5.957v5.276Z" transform="translate(0)"/>
+        <path id="Shape" class="cls-5" d="M23.021,23.4a3.132,3.132,0,0,1-3.289-2.925V11.7c0-3.236-2.939-5.85-6.577-5.85S6.577,8.465,6.577,11.7v8.776A3.132,3.132,0,0,1,3.289,23.4,3.132,3.132,0,0,1,0,20.477V11.7C0,5.247,5.9,0,13.155,0S26.31,5.247,26.31,11.7v8.776A3.132,3.132,0,0,1,23.021,23.4Z" transform="translate(65.774 41.187)"/>
+        <path id="Shape-2" data-name="Shape" class="cls-4" d="M34.453,0H3.132A3.075,3.075,0,0,0,0,3V26.959a3.075,3.075,0,0,0,3.132,3H34.453a3.075,3.075,0,0,0,3.132-3V3A3.075,3.075,0,0,0,34.453,0Z" transform="translate(60.136 58.037)"/>
+        <path id="Combined_Shape-2" data-name="Combined Shape" class="cls-4" d="M54.968,65.526H6.107A6.04,6.04,0,0,1,0,59.569V29.018H97.721V53.611a17.534,17.534,0,0,0-5.373-12.63,18.431,18.431,0,0,0-12.95-5.24,18.121,18.121,0,0,0-18.323,17.87v.521a8.931,8.931,0,0,0-6.107,8.414v2.978ZM15.5,41.188c-1.813,0-3.289,1.89-3.289,4.212s1.475,4.212,3.289,4.212H28.659c1.813,0,3.289-1.89,3.289-4.212s-1.475-4.212-3.289-4.212ZM97.721,11.234H0V5.957A6.04,6.04,0,0,1,6.107,0H91.613a6.041,6.041,0,0,1,6.108,5.957v5.276Z" transform="translate(0 0)"/>
+      </g>
+    </g>
+  </g>
+</svg>

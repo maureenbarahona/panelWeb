@@ -1,0 +1,20 @@
+.card {
+    min-width:  275;
+  }
+
+.bullet {
+    display: 'inline-block';
+    margin: '0 2px';
+    transform: 'scale(0.8)'
+  }
+
+.title {
+    font-Size: 14
+  }
+.title  pos {
+    margin-Bottom: 12
+  }
+.title formcontrol {
+    min-Width: 170;
+    left: 200
+  }
