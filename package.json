@@ -39,7 +39,7 @@
     "redux-saga": "^0.16.2",
     "styled-components": "^4.2.0",
     "typeface-roboto": "^0.0.54",
-    "xlsx": "^0.14.3"
+    "xlsx": "^0.17.0"
   },
   "scripts": {
     "start": "react-app-rewired start",
